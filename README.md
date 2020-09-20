@@ -1,8 +1,8 @@
-### Konnichiwa 👋😄
+### Hi there, my name is Funbi! 👋😄
 
-I am Oyede Funbi, A software engineer who just build things tbvh.
-
-- 🔭 I’m currently working on building cross platform mobile apps using xamarin
-- 🌱 Learning and studying more about: Backend systems, CS Algorithms, Computer Networking, DevOps tools and Elixir.
+- 🔭 I’m currently working on building cross platform mobile apps using xamarin forms.
+- 🌱 Currently Learning and studying more about: Backend systems,DevOps tools and Elixir.
 - 🌐 Core Languages: C#,Javascript,Typescript.
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love anime.
 
