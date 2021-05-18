@@ -1,7 +1,8 @@
-### Hi there, my name is Funbi! 👋😄
-
-- 🔭 I’m currently working on [Xceed365 HCM](https://play.google.com/store/apps/details?id=com.xceed365.hcm&hl=en) full time.
-- 🌱 Learning and studying more about: Backend systems and Elixir.
+### Hi there, I'm Funbi! 👋😄
+#### I'm a Software Engineer who builds mobile and backend services.
+- 🔭 I’m currently working with Xamarin and Nodejs.
+- 🌱 I'm currently learning Elixir.
+- 👪 I'm looking to collaborate on Mobile and Backend Projects.
 - 🌐 Core Languages: C#,Javascript.
 - ⚡ Fun fact: love researching about software systems.
 
