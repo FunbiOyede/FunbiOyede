@@ -3,6 +3,6 @@
 - 🔭 I’m currently working with Xamarin and Nodejs.
 - 🌱 I'm currently learning Elixir.
 - 👪 I'm looking to collaborate on Mobile and Backend Projects.
-- 🌐 Core Languages: C#,Javascript.
+- 🌐 Core Languages: C#,Javascript, Typescript.
 - ⚡ Fun fact: love researching about software systems.
 
